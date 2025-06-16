@@ -1,5 +1,3 @@
----
-
 # Gemini Vission AI
 
 Gemini Vission AI is a Streamlit web application that uses Google Gemini models to analyze images and respond to prompts.
@@ -49,5 +47,3 @@ streamlit run streamlit_app.py
 ## Live App
 
 🌐 [Gemini Vission AI](https://gemini-vission.streamlit.app/)
-
----
