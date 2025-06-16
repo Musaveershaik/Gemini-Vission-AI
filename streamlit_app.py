@@ -5,7 +5,6 @@ import google.generativeai as genai
 
 # Get API key from Streamlit secrets
 genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
-# genai.configure(api_key="AIzaSyCiHb-v8u5Te3FMOnDiylpawav1Bis-hKI")
 
 ## Function to load Gemini model and get response
 def get_gemini_response(input, image):
