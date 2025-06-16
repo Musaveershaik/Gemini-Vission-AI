@@ -1,5 +1,3 @@
-✅ **Here’s a clean and simple `README.md` for your remote repo:**
-
 ---
 
 # Gemini Vission AI
@@ -53,6 +51,3 @@ streamlit run streamlit_app.py
 🌐 [Gemini Vission AI](https://gemini-vission.streamlit.app/)
 
 ---
-
-💡 **Tip:** Replace `your-username/your-repo-name.git` with your actual repo URL.
-If you'd like, I can help format it for GitHub (with badges or demo GIF). Let me know! 🚀
